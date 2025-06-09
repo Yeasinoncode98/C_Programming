@@ -39,6 +39,10 @@ This repository is dedicated to learning and mastering the fundamentals of the *
 
 3.	Explore the folders by topics and try running the C programs using any C compiler (like GCC or online compilers).
 
+        gcc filename.c -o output
+        ./output
+
+
 ⸻
 
 📝 Prerequisites
