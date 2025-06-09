@@ -35,7 +35,7 @@ This repository is dedicated to learning and mastering the fundamentals of the *
    
 2.	Navigate into the project folder:
 
-cd C_Programming
+        cd C_Programming
 
 3.	Explore the folders by topics and try running the C programs using any C compiler (like GCC or online compilers).
 
