@@ -2,6 +2,7 @@
 
 Welcome to the *C Programming* repository!  
 This repository is dedicated to learning and mastering the fundamentals of the *C programming language*, one of the most powerful and widely-used programming languages in the world.
+As a student of CSE i have tried my best to make the lessons more easy and friendly for the new beginners .That they can learn the language more easily and effeciently.
 
 ---
 
